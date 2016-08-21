@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/CodeBlackwell/Socket.io#readme",
   "dependencies": {
-    "express": "^4.10.2"
+    "express": "^4.10.2",
+    "socket.io": "^1.4.8"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
   }
 }
